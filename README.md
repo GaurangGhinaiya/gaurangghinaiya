@@ -11,5 +11,5 @@
 # Social Media
 - [LinkedIn](https://www.linkedin.com/in/gaurangghinaiya/)
 - [Stack Overflow](https://stackoverflow.com/users/4799822/gaurang-ghinaiya)
-- [Upwork](https://stackoverflow.com/users/4799822/gaurang-ghinaiya)
+- [Upwork](https://www.upwork.com/freelancers/~01ec6b1f95b2ef49b4)
 - [Skype](https://join.skype.com/invite/pCdrLHl3tNJc)
