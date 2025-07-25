@@ -1,6 +1,6 @@
 ### Hello World, I'm [Gaurang Ghinaiya!](https://nexios.in/) 👋 
 
-[![Twitter](https://img.shields.io/twitter/follow/gaurangghinaiya?lable=Follow)](https://x.com/gaurangghinaiya)
+[![Twitter](https://img.shields.io/twitter/follow/gaurangghinaiya?label=Follow)](https://x.com/gaurangghinaiya)
 [![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurangghinaiya/)](https://www.linkedin.com/in/gaurangghinaiya/)
 ![Profile Views](https://komarev.com/ghpvc/?username=GaurangGhinaiya&label=👁️)
 
