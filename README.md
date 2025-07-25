@@ -1,5 +1,9 @@
 ### Hello World, I'm [Gaurang Ghinaiya!](https://nexios.in/) 👋 
 
+[![Twitter](https://img.shields.io/twitter/follow/gaurangghinaiya?lable=Follow)](https://x.com/gaurangghinaiya)
+[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurangghinaiya/)](https://www.linkedin.com/in/gaurangghinaiya/)
+![Profile Views](https://komarev.com/ghpvc/?username=GaurangGhinaiya&label=👁️)
+
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurangghinaiya&show_icons=true&include_all_commits=true&theme=dark"/>
 <br />
