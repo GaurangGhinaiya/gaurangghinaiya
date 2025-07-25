@@ -13,6 +13,14 @@
 <br />
 <br />
 
+
+<a href="https://streak-stats.demolab.com?user=MrPunyapal&theme=transparent&hide_border=true" target="_blank">
+<img height=200  src="https://streak-stats.demolab.com?user=MrPunyapal&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPunyapal&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent" target="_blank">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPunyapal&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent" />
+</a>
+
 # Social Media
 - [LinkedIn](https://www.linkedin.com/in/gaurangghinaiya/)
 - [Stack Overflow](https://stackoverflow.com/users/4799822/gaurang-ghinaiya)
